@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Slogan Generator",
+  "description": "Generate three unique slogans for your organization using AI. Simply describe your organization, and let the Gemini API craft catchy taglines for your brand.",
+  "requestFramePermissions": []
+}
